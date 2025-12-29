@@ -63,7 +63,7 @@ brew install pkg-config opus
 
 ### Linux (Ubuntu/Debian)
 ```bash
-sudo apt-get install pkg-config libopus-dev
+sudo apt-get install pkg-config libopus-dev libssl-dev clang cmake
 ```
 
 ## Installation
